@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+### Added
+
+- Set up the language localization for Português (`pt`)
+
 ### Changed
 
 - Removed bottom margin tag from the body element
